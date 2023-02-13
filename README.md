@@ -1,3 +1,6 @@
+<div style="display:flex">
+  <img align="right" alt="coding_img" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+  </p>
 # 💫 About Me:
 🔭I'm an undergrad pursuing B-Tech in Computer Science.<br>🤔I'm currently learning whatever challanges me. <br>💬Ask me anything about programming and full stack.<br>⚡Person that convert coffee to code.
 
