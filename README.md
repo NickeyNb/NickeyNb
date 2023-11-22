@@ -1,5 +1,5 @@
-# 💫 Hi, I'm Nitin Bisht, a passionate learner.
-🎓 I'm an undergrad pursuing B-Tech in Computer Science.<br>🔭 I'm currently making projects using mern-stack and nextjs.<br>🖱️  I am proficient in c++ and javascript language.<br>
+# Hi 👋
+😁 I'm Nitin Bisht, a passionate learner.<br>🎓 I'm an undergrad pursuing B-Tech in Computer Science.<br>🔭 I'm currently making projects using mern-stack and nextjs.<br>🖱️  I am proficient in c++ and javascript language.<br>
 
 
 ## 🌐 Socials:
